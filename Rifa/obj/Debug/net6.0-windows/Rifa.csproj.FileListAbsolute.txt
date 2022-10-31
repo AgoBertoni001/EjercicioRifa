@@ -4,7 +4,6 @@ C:\Users\Agostina\OneDrive - UTN San Francisco\1.FACULTAD\2022\8.Construccion de
 C:\Users\Agostina\OneDrive - UTN San Francisco\1.FACULTAD\2022\8.Construccion de software\Programacion\Rifa\Rifa\bin\Debug\net6.0-windows\Rifa.dll
 C:\Users\Agostina\OneDrive - UTN San Francisco\1.FACULTAD\2022\8.Construccion de software\Programacion\Rifa\Rifa\bin\Debug\net6.0-windows\Rifa.pdb
 C:\Users\Agostina\OneDrive - UTN San Francisco\1.FACULTAD\2022\8.Construccion de software\Programacion\Rifa\Rifa\obj\Debug\net6.0-windows\Rifa.csproj.AssemblyReference.cache
-C:\Users\Agostina\OneDrive - UTN San Francisco\1.FACULTAD\2022\8.Construccion de software\Programacion\Rifa\Rifa\obj\Debug\net6.0-windows\Rifa.Form1.resources
 C:\Users\Agostina\OneDrive - UTN San Francisco\1.FACULTAD\2022\8.Construccion de software\Programacion\Rifa\Rifa\obj\Debug\net6.0-windows\Rifa.csproj.GenerateResource.cache
 C:\Users\Agostina\OneDrive - UTN San Francisco\1.FACULTAD\2022\8.Construccion de software\Programacion\Rifa\Rifa\obj\Debug\net6.0-windows\Rifa.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Agostina\OneDrive - UTN San Francisco\1.FACULTAD\2022\8.Construccion de software\Programacion\Rifa\Rifa\obj\Debug\net6.0-windows\Rifa.AssemblyInfoInputs.cache
@@ -15,3 +14,4 @@ C:\Users\Agostina\OneDrive - UTN San Francisco\1.FACULTAD\2022\8.Construccion de
 C:\Users\Agostina\OneDrive - UTN San Francisco\1.FACULTAD\2022\8.Construccion de software\Programacion\Rifa\Rifa\obj\Debug\net6.0-windows\Rifa.pdb
 C:\Users\Agostina\OneDrive - UTN San Francisco\1.FACULTAD\2022\8.Construccion de software\Programacion\Rifa\Rifa\obj\Debug\net6.0-windows\Rifa.genruntimeconfig.cache
 C:\Users\Agostina\OneDrive - UTN San Francisco\1.FACULTAD\2022\8.Construccion de software\Programacion\Rifa\Rifa\obj\Debug\net6.0-windows\ref\Rifa.dll
+C:\Users\Agostina\OneDrive - UTN San Francisco\1.FACULTAD\2022\8.Construccion de software\Programacion\Rifa\Rifa\obj\Debug\net6.0-windows\Rifa.FormRifa.resources

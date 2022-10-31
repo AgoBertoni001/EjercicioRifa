@@ -70,6 +70,7 @@
             this.tboxNombrePersona.Name = "tboxNombrePersona";
             this.tboxNombrePersona.Size = new System.Drawing.Size(373, 23);
             this.tboxNombrePersona.TabIndex = 3;
+            this.tboxNombrePersona.TextChanged += new System.EventHandler(this.tboxNombrePersona_TextChanged);
             // 
             // tboxApellidoPersona
             // 
@@ -77,6 +78,7 @@
             this.tboxApellidoPersona.Name = "tboxApellidoPersona";
             this.tboxApellidoPersona.Size = new System.Drawing.Size(373, 23);
             this.tboxApellidoPersona.TabIndex = 4;
+            this.tboxApellidoPersona.TextChanged += new System.EventHandler(this.tboxApellidoPersona_TextChanged);
             // 
             // tboxNumRifaElegido
             // 
@@ -84,6 +86,7 @@
             this.tboxNumRifaElegido.Name = "tboxNumRifaElegido";
             this.tboxNumRifaElegido.Size = new System.Drawing.Size(373, 23);
             this.tboxNumRifaElegido.TabIndex = 5;
+            this.tboxNumRifaElegido.TextChanged += new System.EventHandler(this.tboxNumRifaElegido_TextChanged);
             // 
             // btnGuardar
             // 
@@ -109,6 +112,7 @@
             this.Controls.Add(this.lblNombrePersona);
             this.Name = "FormRifa";
             this.Text = "FormRifa";
+            this.Load += new System.EventHandler(this.FormRifa_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
